@@ -1,6 +1,6 @@
 # Classificador de Nível de Herói
 
-Este é um projeto simples de classificação de nível de herói, desenvolvido como parte de um desafio técnico.
+Este é um projeto simples de classificação de nível de herói, desenvolvido como primeiro desafio de código do bootcamp Programação do Zero da [DIO](dio.me) em parceria com o [Potência Tech](https://potenciatech.com.br/).
 
 ## Objetivo
 
@@ -61,7 +61,3 @@ O Herói de nome Batman está no nível de Ouro
 - Operadores
 - Laços de Repetição
 - Estruturas de Decisões
-
----
-
-Esse código foi realizado como primeiro desafio de código do bootcamp Programação do Zero da [DIO](dio.me) em parceria com o [Potência Tech](https://potenciatech.com.br/).
