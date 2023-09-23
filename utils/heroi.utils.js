@@ -1,5 +1,4 @@
 const verificarNivelHeroi = (heroi) => {
-    console.log(`heroi xp: _${heroi.xp}_`);
     if (heroi.xp < 1000) return "Ferro";
     else if (heroi.xp > 1000 && heroi.xp <= 2000) return "Bronze";
     else if (heroi.xp > 2000 && heroi.xp <= 5000) return "Prata";
